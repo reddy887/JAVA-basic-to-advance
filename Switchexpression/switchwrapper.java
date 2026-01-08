@@ -1,4 +1,4 @@
-package BASICS;
+package Switchexpression;
 
 public class switchwrapper {
     	public static void main(String args[]) {

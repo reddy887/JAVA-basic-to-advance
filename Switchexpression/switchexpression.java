@@ -1,4 +1,4 @@
-package BASICS;
+package Switchexpression;
 
 public class switchexpression {
     public static void main(String args[]){

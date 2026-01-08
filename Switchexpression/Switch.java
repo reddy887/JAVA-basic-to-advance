@@ -1,4 +1,4 @@
-package BASICS;
+package Switchexpression;
 
 import java.util.Scanner;
 
