@@ -1,7 +1,8 @@
 package foreachmethods;
 import java.util.List;
 import java.util.Arrays;
-public class foreach {
+
+public class foreachmethod {
     public static void main(String[] args) {
         List<Integer>list=Arrays.asList(23,45,56,67,78,88);
         for(int i=0;i<list.size();i++)
@@ -14,5 +15,4 @@ public class foreach {
         }
         
     }
-    
 }
